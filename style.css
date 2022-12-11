@@ -21,6 +21,7 @@ body {
     margin: 0px;
     font-family: 'IBM Plex Mono', monospace;
     min-height: 100vh;
+    font-size: 14px;
   }
 
   .container {
@@ -420,7 +421,7 @@ body {
         );
         background-size: 400%;
         height: calc(100% + 5px);
-        width: calc(49.5% + 1px);
+        width: calc(46.5% + 1px);
         z-index: -1;
         animation: change 40s linear infinite;
     }
