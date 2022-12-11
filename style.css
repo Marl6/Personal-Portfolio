@@ -421,7 +421,7 @@ body {
         );
         background-size: 400%;
         height: calc(100% + 5px);
-        width: calc(48.5% + 1px);
+        width: calc(50.5% + 1px);
         z-index: -1;
         animation: change 40s linear infinite;
     }
