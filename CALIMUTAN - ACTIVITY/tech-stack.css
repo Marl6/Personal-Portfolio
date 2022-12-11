@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{
+    background-color: rgb(223, 195, 143);
+    font-family: "Montserrat", sans-serif;
+    }
+    
+    table{
+        width: 100%;  
+    }
+    
+    th{
+        text-align: left;
+    }
+    
+    table, th, td {
+        border: 1px solid #000;
+        border-collapse: collapse;
+    }
+    
+    th, td {
+        text-align: center;
+        padding: 10px;
+    }
+    
+    .skills tr:nth-child(1) {
+        background-color: rgb(233, 138, 60);
+    }
+    
+    img{
+        padding: 10px;
+        height: 100px;
+        width: 100px;
+    }
+    
+    .infos{
+        background-color: rgb(182, 56, 161);
+        font-family: Arial;
+        text-align: center;
+    }
+    
+    .imgs{
+        background-color: rgb(115, 74, 209);
+        text-align: center;
+    }
